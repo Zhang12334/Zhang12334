@@ -28,10 +28,13 @@
 ### Alist install script [链接](https://github.com/Zhang12334/alist_install_script)
  - 一个适用于多架构 Linux 系统的 Alist 安装脚本
 
+### Bing-API [链接](https://github.com/Zhang12334/Bing-API)
+ - 自动获取 Bing 每日壁纸的 API
+
 ### MCDR-Welcome
  - 一个基于 MCDReforged 平台的 Minecraft Python 插件，在玩家进服时提示欢迎信息
 
-## 其他联系
+## 联系方式
 欢迎通过以下方式联系我：
 - [GitHub](https://github.com/Zhang12334)
 - [爱发电](https://afdian.com/a/NachoNeko_)
