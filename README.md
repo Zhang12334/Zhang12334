@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zhang12334&label=Profile%20views&color=00ccff&style=flat-square" alt="zhang12334" /> </p>
 
-- Leader of [OFS-Team](https://github.com/OFS-Team)
+- Leader of [NekoByte](https://github.com/NekoByteTeam)
   
 - A member of [MCSLTeam](https://github.com/MCSLTeam)
 
